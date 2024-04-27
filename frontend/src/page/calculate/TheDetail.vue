@@ -42,7 +42,7 @@
 
       <div class="mx-auto" v-if="price">
         <div class="total list-group-item text-center my-4 text-slate-800">
-          <h1 class="text-4xl">Расчет выполнен</h1>
+          <h1 class="text-4xl">Выполнен расчет</h1>
           <div class="fs-3 my-2">
             <strong class="text-xl my-2 block"> Общая стоимость: </strong>
             <p class="text-4xl">{{ price }}</p>
